@@ -1,0 +1,19 @@
+.row1
+{
+    height: 90%;
+    display: table-row;
+    vertical-align: middle;
+}
+
+.row2
+{
+    height: 10px;
+    display: table-row;
+    background:#5c85ae;
+}
+
+.content
+{
+    background:#F2F2F2;
+    height: 100%; 
+}
